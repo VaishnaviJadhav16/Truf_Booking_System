@@ -1,0 +1,33 @@
+@charset "ISO-8859-1";
+
+
+#div{
+    border: 4px;
+    height: 450px;
+    width: 400px;
+    background-color: rgb(207, 207, 157);
+    box-shadow: 10px 10px 50px;
+    border-radius: 10px;
+    border-color: rgb(126, 23, 23);
+    border-top-color: aqua;
+    
+    color: aliceblue;
+}
+
+#button{
+    background-color: rgb(158, 132, 182);
+    box-shadow: 5px 5px 10px;
+    border-radius: 10px;
+    height: 30px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+#h{
+    color: darkgreen;
+
+}
+
+#l{
+    font-size: 20px;
+}
+
